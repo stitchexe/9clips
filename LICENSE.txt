@@ -1,0 +1,24 @@
+9clips
+Copyright (c) 2026 stitchexe. All rights reserved.
+
+9clips is free to download and use, at home or at work.
+
+You may:
+- install and use 9clips on as many computers as you like;
+- share the unchanged installer or zip, as long as you don't charge for it.
+
+You may not:
+- sell 9clips, or bundle it with something you sell;
+- change, decompile or reverse-engineer 9clips, or share changed copies of it.
+
+The clips, recordings and screenshots you make with 9clips are yours.
+
+9clips comes "as is", without any warranty. The author isn't liable for any damage or loss that comes from using it.
+
+
+THIRD-PARTY SOFTWARE
+
+9clips records and exports with FFmpeg (https://ffmpeg.org), which it does not include. When FFmpeg is missing,
+9clips offers to download a build made by gyan.dev (https://www.gyan.dev/ffmpeg/builds/) into
+%LOCALAPPDATA%\9clips\ffmpeg. FFmpeg is free software under the GNU General Public License version 3; its license
+and source code are available from those sites.
